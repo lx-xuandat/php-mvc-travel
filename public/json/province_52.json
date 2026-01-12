@@ -1,0 +1,812 @@
+[
+    {
+        "ma": "21553",
+        "ten": "Phường Quy Nhơn Bắc",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21583",
+        "ten": "Phường Quy Nhơn",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21589",
+        "ten": "Phường Quy Nhơn Tây",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21592",
+        "ten": "Phường Quy Nhơn Nam",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21601",
+        "ten": "Phường Quy Nhơn Đông",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21607",
+        "ten": "Xã Nhơn Châu",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21609",
+        "ten": "Xã An Lão",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21616",
+        "ten": "Xã An Vinh",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21622",
+        "ten": "Xã An Toàn",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21628",
+        "ten": "Xã An Hòa",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21637",
+        "ten": "Phường Tam Quan",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21640",
+        "ten": "Phường Bồng Sơn",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21655",
+        "ten": "Phường Hoài Nhơn Bắc",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21661",
+        "ten": "Phường Hoài Nhơn Tây",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21664",
+        "ten": "Phường Hoài Nhơn",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21670",
+        "ten": "Phường Hoài Nhơn Đông",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21673",
+        "ten": "Phường Hoài Nhơn Nam",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21688",
+        "ten": "Xã Hoài Ân",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21697",
+        "ten": "Xã Ân Hảo",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21703",
+        "ten": "Xã Vạn Đức",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21715",
+        "ten": "Xã Ân Tường",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21727",
+        "ten": "Xã Kim Sơn",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21730",
+        "ten": "Xã Phù Mỹ",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21733",
+        "ten": "Xã Bình Dương",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21739",
+        "ten": "Xã Phù Mỹ Bắc",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21751",
+        "ten": "Xã Phù Mỹ Đông",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21757",
+        "ten": "Xã Phù Mỹ Tây",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21769",
+        "ten": "Xã An Lương",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21775",
+        "ten": "Xã Phù Mỹ Nam",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21786",
+        "ten": "Xã Vĩnh Thạnh",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21787",
+        "ten": "Xã Vĩnh Sơn",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21796",
+        "ten": "Xã Vĩnh Thịnh",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21805",
+        "ten": "Xã Vĩnh Quang",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21808",
+        "ten": "Xã Tây Sơn",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21817",
+        "ten": "Xã Bình Hiệp",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21820",
+        "ten": "Xã Bình Khê",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21829",
+        "ten": "Xã Bình An",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21835",
+        "ten": "Xã Bình Phú",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21853",
+        "ten": "Xã Phù Cát",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21859",
+        "ten": "Xã Đề Gi",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21868",
+        "ten": "Xã Hội Sơn",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21871",
+        "ten": "Xã Hòa Hội",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21880",
+        "ten": "Xã Cát Tiến",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21892",
+        "ten": "Xã Xuân An",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21901",
+        "ten": "Xã Ngô Mây",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21907",
+        "ten": "Phường Bình Định",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21910",
+        "ten": "Phường An Nhơn",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21925",
+        "ten": "Phường An Nhơn Bắc",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21934",
+        "ten": "Phường An Nhơn Đông",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21940",
+        "ten": "Xã An Nhơn Tây",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21943",
+        "ten": "Phường An Nhơn Nam",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21952",
+        "ten": "Xã Tuy Phước",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21964",
+        "ten": "Xã Tuy Phước Bắc",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21970",
+        "ten": "Xã Tuy Phước Đông",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21985",
+        "ten": "Xã Tuy Phước Tây",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21994",
+        "ten": "Xã Vân Canh",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "21997",
+        "ten": "Xã Canh Liên",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "22006",
+        "ten": "Xã Canh Vinh",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23563",
+        "ten": "Phường Diên Hồng",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23575",
+        "ten": "Phường Pleiku",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23584",
+        "ten": "Phường Thống Nhất",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23586",
+        "ten": "Phường Hội Phú",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23590",
+        "ten": "Xã Biển Hồ",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23602",
+        "ten": "Phường An Phú",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23611",
+        "ten": "Xã Gào",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23614",
+        "ten": "Phường An Bình",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23617",
+        "ten": "Phường An Khê",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23629",
+        "ten": "Xã Cửu An",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23638",
+        "ten": "Xã Kbang",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23644",
+        "ten": "Xã Đak Rong",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23647",
+        "ten": "Xã Sơn Lang",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23650",
+        "ten": "Xã Krong",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23668",
+        "ten": "Xã Tơ Tung",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23674",
+        "ten": "Xã Kông Bơ La",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23677",
+        "ten": "Xã Đak Đoa",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23683",
+        "ten": "Xã Đak Sơmei",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23701",
+        "ten": "Xã Kon Gang",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23710",
+        "ten": "Xã Ia Băng",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23714",
+        "ten": "Xã KDang",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23722",
+        "ten": "Xã Chư Păh",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23728",
+        "ten": "Xã Ia Khươl",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23734",
+        "ten": "Xã Ia Ly",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23749",
+        "ten": "Xã Ia Phí",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23764",
+        "ten": "Xã Ia Grai",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23767",
+        "ten": "Xã Ia Hrung",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23776",
+        "ten": "Xã Ia Krái",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23782",
+        "ten": "Xã Ia O",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23788",
+        "ten": "Xã Ia Chia",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23794",
+        "ten": "Xã Mang Yang",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23798",
+        "ten": "Xã Ayun",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23799",
+        "ten": "Xã Hra",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23812",
+        "ten": "Xã Lơ Pang",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23818",
+        "ten": "Xã Kon Chiêng",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23824",
+        "ten": "Xã Kông Chro",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23830",
+        "ten": "Xã Chư Krey",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23833",
+        "ten": "Xã Ya Ma",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23839",
+        "ten": "Xã SRó",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23842",
+        "ten": "Xã Đăk Song",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23851",
+        "ten": "Xã Chơ Long",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23857",
+        "ten": "Xã Đức Cơ",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23866",
+        "ten": "Xã Ia Krêl",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23869",
+        "ten": "Xã Ia Dơk",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23872",
+        "ten": "Xã Ia Dom",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23881",
+        "ten": "Xã Ia Pnôn",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23884",
+        "ten": "Xã Ia Nan",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23887",
+        "ten": "Xã Chư Prông",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23896",
+        "ten": "Xã Bàu Cạn",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23908",
+        "ten": "Xã Ia Tôr",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23911",
+        "ten": "Xã Ia Boòng",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23917",
+        "ten": "Xã Ia Púch",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23926",
+        "ten": "Xã Ia Pia",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23935",
+        "ten": "Xã Ia Lâu",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23938",
+        "ten": "Xã Ia Mơ",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23941",
+        "ten": "Xã Chư Sê",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23942",
+        "ten": "Xã Chư Pưh",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23947",
+        "ten": "Xã Bờ Ngoong",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23954",
+        "ten": "Xã Al Bá",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23971",
+        "ten": "Xã Ia Hrú",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23977",
+        "ten": "Xã Ia Ko",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23986",
+        "ten": "Xã Ia Le",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "23995",
+        "ten": "Xã Đak Pơ",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24007",
+        "ten": "Xã Ya Hội",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24013",
+        "ten": "Xã Pờ Tó",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24022",
+        "ten": "Xã Ia Pa",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24028",
+        "ten": "Xã Ia Tul",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24043",
+        "ten": "Xã Phú Thiện",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24044",
+        "ten": "Phường Ayun Pa",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24049",
+        "ten": "Xã Chư A Thai",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24061",
+        "ten": "Xã Ia Hiao",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24065",
+        "ten": "Xã Ia Rbol",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24073",
+        "ten": "Xã Ia Sao",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24076",
+        "ten": "Xã Phú Túc",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24100",
+        "ten": "Xã Ia Dreh",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24109",
+        "ten": "Xã Uar",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    },
+    {
+        "ma": "24112",
+        "ten": "Xã Ia Rsai",
+        "ma_tp": "52",
+        "ten_tp": "Tỉnh Gia Lai"
+    }
+]

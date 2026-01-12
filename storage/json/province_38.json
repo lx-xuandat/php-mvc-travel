@@ -1,0 +1,998 @@
+[
+    {
+        "ma": "14758",
+        "ten": "Phường Hàm Rồng",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14797",
+        "ten": "Phường Hạc Thành",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14812",
+        "ten": "Phường Bỉm Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14818",
+        "ten": "Phường Quang Trung",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14845",
+        "ten": "Xã Mường Lát",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14848",
+        "ten": "Xã Tam Chung",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14854",
+        "ten": "Xã Mường Lý",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14857",
+        "ten": "Xã Trung Lý",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14860",
+        "ten": "Xã Quang Chiểu",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14863",
+        "ten": "Xã Pù Nhi",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14864",
+        "ten": "Xã Nhi Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14866",
+        "ten": "Xã Mường Chanh",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14869",
+        "ten": "Xã Hồi Xuân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14872",
+        "ten": "Xã Trung Thành",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14875",
+        "ten": "Xã Trung Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14878",
+        "ten": "Xã Phú Lệ",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14890",
+        "ten": "Xã Phú Xuân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14896",
+        "ten": "Xã Hiền Kiệt",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14902",
+        "ten": "Xã Nam Xuân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14908",
+        "ten": "Xã Thiên Phủ",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14923",
+        "ten": "Xã Bá Thước",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14932",
+        "ten": "Xã Điền Quang",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14950",
+        "ten": "Xã Điền Lư",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14953",
+        "ten": "Xã Quý Lương",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14956",
+        "ten": "Xã Pù Luông",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14959",
+        "ten": "Xã Cổ Lũng",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14974",
+        "ten": "Xã Văn Nho",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "14980",
+        "ten": "Xã Thiết Ống",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15001",
+        "ten": "Xã Trung Hạ",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15007",
+        "ten": "Xã Tam Thanh",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15010",
+        "ten": "Xã Sơn Thủy",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15013",
+        "ten": "Xã Na Mèo",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15016",
+        "ten": "Xã Quan Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15019",
+        "ten": "Xã Tam Lư",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15022",
+        "ten": "Xã Sơn Điện",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15025",
+        "ten": "Xã Mường Mìn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15031",
+        "ten": "Xã Yên Khương",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15034",
+        "ten": "Xã Yên Thắng",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15043",
+        "ten": "Xã Giao An",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15049",
+        "ten": "Xã Văn Phú",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15055",
+        "ten": "Xã Linh Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15058",
+        "ten": "Xã Đồng Lương",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15061",
+        "ten": "Xã Ngọc Lặc",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15085",
+        "ten": "Xã Thạch Lập",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15091",
+        "ten": "Xã Ngọc Liên",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15106",
+        "ten": "Xã Nguyệt Ấn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15112",
+        "ten": "Xã Kiên Thọ",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15124",
+        "ten": "Xã Minh Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15127",
+        "ten": "Xã Cẩm Thủy",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15142",
+        "ten": "Xã Cẩm Thạch",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15148",
+        "ten": "Xã Cẩm Tú",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15163",
+        "ten": "Xã Cẩm Vân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15178",
+        "ten": "Xã Cẩm Tân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15187",
+        "ten": "Xã Kim Tân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15190",
+        "ten": "Xã Vân Du",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15199",
+        "ten": "Xã Thạch Quảng",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15211",
+        "ten": "Xã Thạch Bình",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15229",
+        "ten": "Xã Thành Vinh",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15250",
+        "ten": "Xã Ngọc Trạo",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15271",
+        "ten": "Xã Hà Trung",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15274",
+        "ten": "Xã Hà Long",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15286",
+        "ten": "Xã Hoạt Giang",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15298",
+        "ten": "Xã Lĩnh Toại",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15316",
+        "ten": "Xã Tống Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15349",
+        "ten": "Xã Vĩnh Lộc",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15361",
+        "ten": "Xã Tây Đô",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15382",
+        "ten": "Xã Biện Thượng",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15409",
+        "ten": "Xã Yên Phú",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15412",
+        "ten": "Xã Quý Lộc",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15421",
+        "ten": "Xã Yên Trường",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15442",
+        "ten": "Xã Yên Ninh",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15448",
+        "ten": "Xã Định Hòa",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15457",
+        "ten": "Xã Định Tân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15469",
+        "ten": "Xã Yên Định",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15499",
+        "ten": "Xã Thọ Xuân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15505",
+        "ten": "Xã Thọ Long",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15520",
+        "ten": "Xã Xuân Hòa",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15544",
+        "ten": "Xã Lam Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15553",
+        "ten": "Xã Sao Vàng",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15568",
+        "ten": "Xã Thọ Lập",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15574",
+        "ten": "Xã Xuân Tín",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15592",
+        "ten": "Xã Xuân Lập",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15607",
+        "ten": "Xã Bát Mọt",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15610",
+        "ten": "Xã Yên Nhân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15622",
+        "ten": "Xã Vạn Xuân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15628",
+        "ten": "Xã Lương Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15634",
+        "ten": "Xã Luận Thành",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15643",
+        "ten": "Xã Thắng Lộc",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15646",
+        "ten": "Xã Thường Xuân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15658",
+        "ten": "Xã Xuân Chinh",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15661",
+        "ten": "Xã Tân Thành",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15664",
+        "ten": "Xã Triệu Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15667",
+        "ten": "Xã Thọ Bình",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15682",
+        "ten": "Xã Hợp Tiến",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15715",
+        "ten": "Xã Tân Ninh",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15724",
+        "ten": "Xã Đồng Tiến",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15754",
+        "ten": "Xã Thọ Ngọc",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15763",
+        "ten": "Xã Thọ Phú",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15766",
+        "ten": "Xã An Nông",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15772",
+        "ten": "Xã Thiệu Hóa",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15778",
+        "ten": "Xã Thiệu Tiến",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15796",
+        "ten": "Xã Thiệu Quang",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15820",
+        "ten": "Xã Thiệu Toán",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15835",
+        "ten": "Xã Thiệu Trung",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15853",
+        "ten": "Phường Đông Tiến",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15865",
+        "ten": "Xã Hoằng Hóa",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15880",
+        "ten": "Xã Hoằng Giang",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15889",
+        "ten": "Xã Hoằng Phú",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15910",
+        "ten": "Xã Hoằng Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15925",
+        "ten": "Phường Nguyệt Viên",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15961",
+        "ten": "Xã Hoằng Lộc",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15976",
+        "ten": "Xã Hoằng Châu",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "15991",
+        "ten": "Xã Hoằng Tiến",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16000",
+        "ten": "Xã Hoằng Thanh",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16012",
+        "ten": "Xã Hậu Lộc",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16021",
+        "ten": "Xã Triệu Lộc",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16033",
+        "ten": "Xã Đông Thành",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16072",
+        "ten": "Xã Hoa Lộc",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16078",
+        "ten": "Xã Vạn Lộc",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16093",
+        "ten": "Xã Nga Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16108",
+        "ten": "Xã Tân Tiến",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16114",
+        "ten": "Xã Nga Thắng",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16138",
+        "ten": "Xã Hồ Vương",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16144",
+        "ten": "Xã Nga An",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16171",
+        "ten": "Xã Ba Đình",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16174",
+        "ten": "Xã Như Xuân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16177",
+        "ten": "Xã Xuân Bình",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16186",
+        "ten": "Xã Hóa Quỳ",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16213",
+        "ten": "Xã Thanh Phong",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16222",
+        "ten": "Xã Thanh Quân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16225",
+        "ten": "Xã Thượng Ninh",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16228",
+        "ten": "Xã Như Thanh",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16234",
+        "ten": "Xã Xuân Du",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16249",
+        "ten": "Xã Mậu Lâm",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16258",
+        "ten": "Xã Xuân Thái",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16264",
+        "ten": "Xã Yên Thọ",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16273",
+        "ten": "Xã Thanh Kỳ",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16279",
+        "ten": "Xã Nông Cống",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16297",
+        "ten": "Xã Trung Chính",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16309",
+        "ten": "Xã Thắng Lợi",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16342",
+        "ten": "Xã Thăng Bình",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16348",
+        "ten": "Xã Trường Văn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16363",
+        "ten": "Xã Tượng Lĩnh",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16369",
+        "ten": "Xã Công Chính",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16378",
+        "ten": "Phường Đông Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16417",
+        "ten": "Phường Đông Quang",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16438",
+        "ten": "Xã Lưu Vệ",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16480",
+        "ten": "Xã Quảng Yên",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16489",
+        "ten": "Xã Quảng Chính",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16498",
+        "ten": "Xã Quảng Ngọc",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16516",
+        "ten": "Phường Nam Sầm Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16522",
+        "ten": "Phường Quảng Phú",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16531",
+        "ten": "Phường Sầm Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16540",
+        "ten": "Xã Quảng Ninh",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16543",
+        "ten": "Xã Quảng Bình",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16549",
+        "ten": "Xã Tiên Trang",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16561",
+        "ten": "Phường Tĩnh Gia",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16576",
+        "ten": "Phường Ngọc Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16591",
+        "ten": "Xã Các Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16594",
+        "ten": "Phường Tân Dân",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16597",
+        "ten": "Phường Hải Lĩnh",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16609",
+        "ten": "Phường Đào Duy Từ",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16624",
+        "ten": "Phường Trúc Lâm",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16636",
+        "ten": "Xã Trường Lâm",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16645",
+        "ten": "Phường Hải Bình",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    },
+    {
+        "ma": "16654",
+        "ten": "Phường Nghi Sơn",
+        "ma_tp": "38",
+        "ten_tp": "Tỉnh Thanh Hóa"
+    }
+]

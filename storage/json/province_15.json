@@ -1,0 +1,596 @@
+[
+    {
+        "ma": "02647",
+        "ten": "Phường Lào Cai",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02671",
+        "ten": "Phường Cam Đường",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02680",
+        "ten": "Xã Hợp Thành",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02683",
+        "ten": "Xã Bát Xát",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02686",
+        "ten": "Xã A Mú Sung",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02695",
+        "ten": "Xã Trịnh Tường",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02701",
+        "ten": "Xã Y Tý",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02707",
+        "ten": "Xã Dền Sáng",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02725",
+        "ten": "Xã Bản Xèo",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02728",
+        "ten": "Xã Mường Hum",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02746",
+        "ten": "Xã Cốc San",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02752",
+        "ten": "Xã Pha Long ",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02761",
+        "ten": "Xã Mường Khương",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02782",
+        "ten": "Xã Cao Sơn",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02788",
+        "ten": "Xã Bản Lầu",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02809",
+        "ten": "Xã Si Ma Cai",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02824",
+        "ten": "Xã Sín Chéng",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02839",
+        "ten": "Xã Bắc Hà",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02842",
+        "ten": "Xã Tả Củ Tỷ",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02848",
+        "ten": "Xã Lùng Phình",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02869",
+        "ten": "Xã Bản Liền",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02890",
+        "ten": "Xã Bảo Nhai",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02896",
+        "ten": "Xã Cốc Lầu",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02902",
+        "ten": "Xã Phong Hải",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02905",
+        "ten": "Xã Bảo Thắng",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02908",
+        "ten": "Xã Tằng Loỏng",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02923",
+        "ten": "Xã Gia Phú",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02926",
+        "ten": "Xã Xuân Quang",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02947",
+        "ten": "Xã Bảo Yên",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02953",
+        "ten": "Xã Nghĩa Đô",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02962",
+        "ten": "Xã Xuân Hòa",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02968",
+        "ten": "Xã Thượng Hà",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02989",
+        "ten": "Xã Bảo Hà",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "02998",
+        "ten": "Xã Phúc Khánh",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03004",
+        "ten": "Xã Ngũ Chỉ Sơn",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03006",
+        "ten": "Phường Sa Pa",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03013",
+        "ten": "Xã Tả Phìn",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03037",
+        "ten": "Xã Tả Van",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03043",
+        "ten": "Xã Mường Bo",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03046",
+        "ten": "Xã Bản Hồ",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03061",
+        "ten": "Xã Võ Lao",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03076",
+        "ten": "Xã Nậm Chày",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03082",
+        "ten": "Xã Văn Bàn",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03085",
+        "ten": "Xã Nậm Xé",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03091",
+        "ten": "Xã Chiềng Ken ",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03103",
+        "ten": "Xã Khánh Yên",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03106",
+        "ten": "Xã Dương Quỳ",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "03121",
+        "ten": "Xã Minh Lương",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04252",
+        "ten": "Phường Yên Bái",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04273",
+        "ten": "Phường Nam Cường",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04279",
+        "ten": "Phường Văn Phú",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04288",
+        "ten": "Phường Nghĩa Lộ",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04303",
+        "ten": "Xã Lục Yên",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04309",
+        "ten": "Xã Lâm Thượng",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04336",
+        "ten": "Xã Tân Lĩnh",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04342",
+        "ten": "Xã Khánh Hòa",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04345",
+        "ten": "Xã Mường Lai",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04363",
+        "ten": "Xã Phúc Lợi",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04375",
+        "ten": "Xã Mậu A",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04381",
+        "ten": "Xã Lâm Giang",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04387",
+        "ten": "Xã Châu Quế",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04399",
+        "ten": "Xã Đông Cuông",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04402",
+        "ten": "Xã Phong Dụ Hạ",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04423",
+        "ten": "Xã Phong Dụ Thượng",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04429",
+        "ten": "Xã Tân Hợp",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04441",
+        "ten": "Xã Xuân Ái",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04450",
+        "ten": "Xã Mỏ Vàng",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04456",
+        "ten": "Xã Mù Cang Chải",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04462",
+        "ten": "Xã Nậm Có",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04465",
+        "ten": "Xã Khao Mang",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04474",
+        "ten": "Xã Lao Chải",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04489",
+        "ten": "Xã Chế Tạo",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04492",
+        "ten": "Xã Púng Luông",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04498",
+        "ten": "Xã Trấn Yên",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04531",
+        "ten": "Xã Quy Mông",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04537",
+        "ten": "Xã Lương Thịnh",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04543",
+        "ten": "Phường Âu Lâu",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04564",
+        "ten": "Xã Việt Hồng",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04576",
+        "ten": "Xã Hưng Khánh",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04585",
+        "ten": "Xã Hạnh Phúc",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04603",
+        "ten": "Xã Tà Xi Láng",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04606",
+        "ten": "Xã Trạm Tấu",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04609",
+        "ten": "Xã Phình Hồ",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04630",
+        "ten": "Xã Tú Lệ",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04636",
+        "ten": "Xã Gia Hội",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04651",
+        "ten": "Xã Sơn Lương",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04660",
+        "ten": "Xã Liên Sơn",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04663",
+        "ten": "Phường Trung Tâm",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04672",
+        "ten": "Xã Văn Chấn",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04681",
+        "ten": "Phường Cầu Thia",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04693",
+        "ten": "Xã Cát Thịnh",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04699",
+        "ten": "Xã Chấn Thịnh",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04705",
+        "ten": "Xã Thượng Bằng La",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04711",
+        "ten": "Xã Nghĩa Tâm",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04714",
+        "ten": "Xã Yên Bình",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04717",
+        "ten": "Xã Thác Bà",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04726",
+        "ten": "Xã Cảm Nhân",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04744",
+        "ten": "Xã Yên Thành",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    },
+    {
+        "ma": "04750",
+        "ten": "Xã Bảo Ái ",
+        "ma_tp": "15",
+        "ten_tp": "Tỉnh Lào Cai"
+    }
+]

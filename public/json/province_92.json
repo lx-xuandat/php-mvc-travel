@@ -1,0 +1,620 @@
+[
+    {
+        "ma": "31120",
+        "ten": "Phường Cái Khế",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31135",
+        "ten": "Phường Ninh Kiều",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31147",
+        "ten": "Phường Tân An",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31150",
+        "ten": "Phường An Bình",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31153",
+        "ten": "Phường Ô Môn",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31157",
+        "ten": "Phường Thới Long",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31162",
+        "ten": "Phường Phước Thới",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31168",
+        "ten": "Phường Bình Thủy",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31174",
+        "ten": "Phường Thới An Đông",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31183",
+        "ten": "Phường Long Tuyền",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31186",
+        "ten": "Phường Cái Răng",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31201",
+        "ten": "Phường Hưng Phú",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31207",
+        "ten": "Phường Thốt Nốt",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31213",
+        "ten": "Phường Tân Lộc",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31217",
+        "ten": "Phường Trung Nhứt",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31228",
+        "ten": "Phường Thuận Hưng",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31231",
+        "ten": "Xã Thạnh An",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31232",
+        "ten": "Xã Vĩnh Thạnh",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31237",
+        "ten": "Xã Vĩnh Trinh",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31246",
+        "ten": "Xã Thạnh Quới",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31249",
+        "ten": "Xã Thạnh Phú",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31255",
+        "ten": "Xã Trung Hưng",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31258",
+        "ten": "Xã Thới Lai",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31261",
+        "ten": "Xã Cờ Đỏ",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31264",
+        "ten": "Xã Thới Hưng",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31273",
+        "ten": "Xã Đông Hiệp",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31282",
+        "ten": "Xã Đông Thuận",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31288",
+        "ten": "Xã Trường Thành",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31294",
+        "ten": "Xã Trường Xuân",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31299",
+        "ten": "Xã Phong Điền",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31309",
+        "ten": "Xã Trường Long",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31315",
+        "ten": "Xã Nhơn Ái",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31321",
+        "ten": "Phường Vị Thanh",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31333",
+        "ten": "Phường Vị Tân",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31338",
+        "ten": "Xã Hỏa Lựu",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31340",
+        "ten": "Phường Ngã Bảy",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31342",
+        "ten": "Xã Tân Hòa",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31348",
+        "ten": "Xã Trường Long Tây",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31360",
+        "ten": "Xã Thạnh Xuân",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31366",
+        "ten": "Xã Châu Thành",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31369",
+        "ten": "Xã Đông Phước",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31378",
+        "ten": "Xã Phú Hữu",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31393",
+        "ten": "Xã Hòa An",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31396",
+        "ten": "Xã Hiệp Hưng",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31399",
+        "ten": "Xã Tân Bình",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31408",
+        "ten": "Xã Thạnh Hòa",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31411",
+        "ten": "Phường Đại Thành",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31420",
+        "ten": "Xã Phụng Hiệp",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31426",
+        "ten": "Xã Phương Bình",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31432",
+        "ten": "Xã Tân Phước Hưng",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31441",
+        "ten": "Xã Vị Thủy",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31453",
+        "ten": "Xã Vĩnh Thuận Đông",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31459",
+        "ten": "Xã  Vĩnh Tường",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31465",
+        "ten": "Xã Vị Thanh 1",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31471",
+        "ten": "Phường Long Mỹ  ",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31473",
+        "ten": "Phường Long Bình",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31480",
+        "ten": "Phường Long Phú 1",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31489",
+        "ten": "Xã Vĩnh Viễn",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31492",
+        "ten": "Xã Lương Tâm",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31495",
+        "ten": "Xã Xà Phiên",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31507",
+        "ten": "Phường Sóc Trăng",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31510",
+        "ten": "Phường Phú Lợi",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31528",
+        "ten": "Xã Kế Sách",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31531",
+        "ten": "Xã An Lạc Thôn",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31537",
+        "ten": "Xã Phong Nẫm",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31540",
+        "ten": "Xã Thới An Hội",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31552",
+        "ten": "Xã Nhơn Mỹ",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31561",
+        "ten": "Xã Đại Hải",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31567",
+        "ten": "Xã Mỹ Tú",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31569",
+        "ten": "Xã Phú Tâm",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31570",
+        "ten": "Xã Hồ Đắc Kiện",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31579",
+        "ten": "Xã Long Hưng",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31582",
+        "ten": "Xã Thuận Hòa",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31591",
+        "ten": "Xã Mỹ Hương",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31594",
+        "ten": "Xã An Ninh",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31603",
+        "ten": "Xã Mỹ Phước",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31615",
+        "ten": "Xã An Thạnh",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31633",
+        "ten": "Xã Cù Lao Dung",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31639",
+        "ten": "Xã Long Phú",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31645",
+        "ten": "Xã Đại Ngãi",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31654",
+        "ten": "Xã Trường Khánh",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31666",
+        "ten": "Xã Tân Thạnh",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31673",
+        "ten": "Xã Trần Đề",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31675",
+        "ten": "Xã Liêu Tú",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31679",
+        "ten": "Xã Lịch Hội Thượng",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31684",
+        "ten": "Phường Mỹ Xuyên",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31687",
+        "ten": "Xã Tài Văn",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31699",
+        "ten": "Xã Thạnh Thới An",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31708",
+        "ten": "Xã Nhu Gia",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31717",
+        "ten": "Xã Hòa Tú",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31723",
+        "ten": "Xã Ngọc Tố",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31726",
+        "ten": "Xã Gia Hòa",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31732",
+        "ten": "Phường Ngã Năm",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31741",
+        "ten": "Xã Tân Long",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31753",
+        "ten": "Phường Mỹ Quới",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31756",
+        "ten": "Xã Phú Lộc",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31759",
+        "ten": "Xã Lâm Tân",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31777",
+        "ten": "Xã Vĩnh Lợi",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31783",
+        "ten": "Phường Vĩnh Châu",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31789",
+        "ten": "Phường Khánh Hòa",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31795",
+        "ten": "Xã Vĩnh Hải",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31804",
+        "ten": "Phường Vĩnh Phước",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    },
+    {
+        "ma": "31810",
+        "ten": "Xã Lai Hòa",
+        "ma_tp": "92",
+        "ten_tp": "Thành phố Cần Thơ"
+    }
+]

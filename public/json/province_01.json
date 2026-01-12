@@ -1,0 +1,758 @@
+[
+    {
+        "ma": "00004",
+        "ten": "Phường Ba Đình",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00008",
+        "ten": "Phường Ngọc Hà",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00025",
+        "ten": "Phường Giảng Võ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00070",
+        "ten": "Phường Hoàn Kiếm",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00082",
+        "ten": "Phường Cửa Nam",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00091",
+        "ten": "Phường Phú Thượng",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00097",
+        "ten": "Phường Hồng Hà",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00103",
+        "ten": "Phường Tây Hồ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00118",
+        "ten": "Phường Bồ Đề",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00127",
+        "ten": "Phường Việt Hưng",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00136",
+        "ten": "Phường Phúc Lợi",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00145",
+        "ten": "Phường Long Biên",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00160",
+        "ten": "Phường Nghĩa Đô",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00166",
+        "ten": "Phường Cầu Giấy",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00175",
+        "ten": "Phường Yên Hòa",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00190",
+        "ten": "Phường Ô Chợ Dừa",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00199",
+        "ten": "Phường Láng",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00226",
+        "ten": "Phường Văn Miếu - Quốc Tử Giám",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00229",
+        "ten": "Phường Kim Liên",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00235",
+        "ten": "Phường Đống Đa",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00256",
+        "ten": "Phường Hai Bà Trưng",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00283",
+        "ten": "Phường Vĩnh Tuy",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00292",
+        "ten": "Phường Bạch Mai",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00301",
+        "ten": "Phường Vĩnh Hưng",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00316",
+        "ten": "Phường Định Công",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00322",
+        "ten": "Phường Tương Mai",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00328",
+        "ten": "Phường Lĩnh Nam",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00331",
+        "ten": "Phường Hoàng Mai",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00337",
+        "ten": "Phường Hoàng Liệt",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00340",
+        "ten": "Phường Yên Sở",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00352",
+        "ten": "Phường Phương Liệt",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00364",
+        "ten": "Phường Khương Đình",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00367",
+        "ten": "Phường Thanh Xuân",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00376",
+        "ten": "Xã Sóc Sơn",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00382",
+        "ten": "Xã Kim Anh",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00385",
+        "ten": "Xã Trung Giã ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00430",
+        "ten": "Xã Đa Phúc",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00433",
+        "ten": "Xã Nội Bài",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00454",
+        "ten": "Xã Đông Anh",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00466",
+        "ten": "Xã Phúc Thịnh",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00475",
+        "ten": "Xã Thư Lâm",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00493",
+        "ten": "Xã Thiên Lộc",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00508",
+        "ten": "Xã Vĩnh Thanh",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00541",
+        "ten": "Xã Phù Đổng",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00562",
+        "ten": "Xã Thuận An",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00565",
+        "ten": "Xã Gia Lâm",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00577",
+        "ten": "Xã Bát Tràng",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00592",
+        "ten": "Phường Từ Liêm",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00598",
+        "ten": "Phường Thượng Cát",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00602",
+        "ten": "Phường Đông Ngạc",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00611",
+        "ten": "Phường Xuân Đỉnh",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00613",
+        "ten": "Phường Tây Tựu",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00619",
+        "ten": "Phường Phú Diễn",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00622",
+        "ten": "Phường Xuân Phương ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00634",
+        "ten": "Phường Tây Mỗ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00637",
+        "ten": "Phường Đại Mỗ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00640",
+        "ten": "Xã Thanh Trì",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00643",
+        "ten": "Phường Thanh Liệt",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00664",
+        "ten": "Xã Đại Thanh",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00679",
+        "ten": "Xã Ngọc Hồi",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "00685",
+        "ten": "Xã Nam Phù",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "04930",
+        "ten": "Xã Yên Xuân",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "08974",
+        "ten": "Xã Quang Minh",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "08980",
+        "ten": "Xã Yên Lãng",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "08995",
+        "ten": "Xã Tiến Thắng",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09022",
+        "ten": "Xã Mê Linh",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09552",
+        "ten": "Phường Kiến Hưng ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09556",
+        "ten": "Phường Hà Đông",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09562",
+        "ten": "Phường Yên Nghĩa",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09568",
+        "ten": "Phường Phú Lương",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09574",
+        "ten": "Phường Sơn Tây",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09604",
+        "ten": "Phường Tùng Thiện",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09616",
+        "ten": "Xã Đoài Phương",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09619",
+        "ten": "Xã Quảng Oai",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09634",
+        "ten": "Xã Cổ Đô",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09661",
+        "ten": "Xã Minh Châu",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09664",
+        "ten": "Xã Vật Lại",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09676",
+        "ten": "Xã Bất Bạt",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09694",
+        "ten": "Xã Suối Hai",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09700",
+        "ten": "Xã Ba Vì",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09706",
+        "ten": "Xã Yên Bài ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09715",
+        "ten": "Xã Phúc Thọ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09739",
+        "ten": "Xã Phúc Lộc",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09772",
+        "ten": "Xã Hát Môn",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09784",
+        "ten": "Xã Đan Phượng",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09787",
+        "ten": "Xã Liên Minh",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09817",
+        "ten": "Xã Ô Diên",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09832",
+        "ten": "Xã Hoài Đức",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09856",
+        "ten": "Xã Dương Hòa",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09871",
+        "ten": "Xã Sơn Đồng",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09877",
+        "ten": "Xã An Khánh",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09886",
+        "ten": "Phường Dương Nội",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09895",
+        "ten": "Xã Quốc Oai",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09910",
+        "ten": "Xã Kiều Phú",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09931",
+        "ten": "Xã Hưng Đạo ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09952",
+        "ten": "Xã Phú Cát ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09955",
+        "ten": "Xã Thạch Thất",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09982",
+        "ten": "Xã Hạ Bằng",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "09988",
+        "ten": "Xã Hòa Lạc",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10003",
+        "ten": "Xã Tây Phương",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10015",
+        "ten": "Phường Chương Mỹ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10030",
+        "ten": "Xã Phú Nghĩa",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10045",
+        "ten": "Xã Xuân Mai",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10072",
+        "ten": "Xã Quảng Bị",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10081",
+        "ten": "Xã Trần Phú ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10096",
+        "ten": "Xã Hòa Phú ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10114",
+        "ten": "Xã Thanh Oai",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10126",
+        "ten": "Xã Bình Minh ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10144",
+        "ten": "Xã Tam Hưng",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10180",
+        "ten": "Xã Dân Hòa ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10183",
+        "ten": "Xã Thường Tín",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10210",
+        "ten": "Xã Hồng Vân",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10231",
+        "ten": "Xã Thượng Phúc",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10237",
+        "ten": "Xã Chương Dương",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10273",
+        "ten": "Xã Phú Xuyên",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10279",
+        "ten": "Xã Phượng Dực",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10330",
+        "ten": "Xã Chuyên Mỹ",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10342",
+        "ten": "Xã Đại Xuyên",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10354",
+        "ten": "Xã Vân Đình",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10369",
+        "ten": "Xã Ứng Thiên",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10402",
+        "ten": "Xã Ứng Hòa",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10417",
+        "ten": "Xã Hòa Xá",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10441",
+        "ten": "Xã Mỹ Đức",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10459",
+        "ten": "Xã Phúc Sơn",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10465",
+        "ten": "Xã Hồng Sơn",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    },
+    {
+        "ma": "10489",
+        "ten": "Xã Hương Sơn",
+        "ma_tp": "01",
+        "ten_tp": "Thành phố Hà Nội"
+    }
+]

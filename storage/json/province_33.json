@@ -1,0 +1,626 @@
+[
+    {
+        "ma": "11953",
+        "ten": "Phường Phố Hiến",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "11977",
+        "ten": "Xã Tân Hưng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "11980",
+        "ten": "Phường Hồng Châu",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "11983",
+        "ten": "Phường Sơn Nam",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "11992",
+        "ten": "Xã Lạc Đạo",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "11995",
+        "ten": "Xã Đại Đồng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12004",
+        "ten": "Xã Như Quỳnh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12019",
+        "ten": "Xã Văn Giang",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12025",
+        "ten": "Xã Phụng Công",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12031",
+        "ten": "Xã Nghĩa Trụ",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12049",
+        "ten": "Xã Mễ Sở",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12064",
+        "ten": "Xã Nguyễn Văn Linh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12070",
+        "ten": "Xã Hoàn Long",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12073",
+        "ten": "Xã Yên Mỹ",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12091",
+        "ten": "Xã Việt Yên",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12103",
+        "ten": "Phường Mỹ Hào",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12127",
+        "ten": "Phường Thượng Hồng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12133",
+        "ten": "Phường Đường Hào",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12142",
+        "ten": "Xã Ân Thi",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12148",
+        "ten": "Xã Phạm Ngũ Lão",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12166",
+        "ten": "Xã Xuân Trúc",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12184",
+        "ten": "Xã Nguyễn Trãi",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12196",
+        "ten": "Xã Hồng Quang",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12205",
+        "ten": "Xã Khoái Châu",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12223",
+        "ten": "Xã Triệu Việt Vương",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12238",
+        "ten": "Xã Việt Tiến",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12247",
+        "ten": "Xã Châu Ninh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12271",
+        "ten": "Xã Chí Minh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12280",
+        "ten": "Xã Lương Bằng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12286",
+        "ten": "Xã Nghĩa Dân",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12313",
+        "ten": "Xã Đức Hợp",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12322",
+        "ten": "Xã Hiệp Cường",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12337",
+        "ten": "Xã Hoàng Hoa Thám",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12361",
+        "ten": "Xã Tiên Hoa",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12364",
+        "ten": "Xã Tiên Lữ",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12391",
+        "ten": "Xã Quang Hưng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12406",
+        "ten": "Xã Đoàn Đào",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12424",
+        "ten": "Xã Tiên Tiến",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12427",
+        "ten": "Xã Tống Trân",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12452",
+        "ten": "Phường Trần Hưng Đạo",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12454",
+        "ten": "Phường Trần Lãm",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12466",
+        "ten": "Phường Vũ Phúc",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12472",
+        "ten": "Xã Quỳnh Phụ",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12499",
+        "ten": "Xã A Sào",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12511",
+        "ten": "Xã Minh Thọ",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12517",
+        "ten": "Xã Ngọc Lâm",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12523",
+        "ten": "Xã Phụ Dực",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12526",
+        "ten": "Xã Đồng Bằng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12532",
+        "ten": "Xã Nguyễn Du",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12577",
+        "ten": "Xã Quỳnh An",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12583",
+        "ten": "Xã Tân Tiến",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12586",
+        "ten": "Xã Hưng Hà",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12595",
+        "ten": "Xã Ngự Thiên",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12613",
+        "ten": "Xã Long Hưng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12619",
+        "ten": "Xã Diên Hà",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12631",
+        "ten": "Xã Thần Khê",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12634",
+        "ten": "Xã Tiên La",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12676",
+        "ten": "Xã Lê Quý Đôn",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12685",
+        "ten": "Xã Hồng Minh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12688",
+        "ten": "Xã Đông Hưng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12694",
+        "ten": "Xã Bắc Đông Hưng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12700",
+        "ten": "Xã Bắc Tiên Hưng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12736",
+        "ten": "Xã Đông Tiên Hưng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12745",
+        "ten": "Xã Bắc Đông Quan",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12754",
+        "ten": "Xã Tiên Hưng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12763",
+        "ten": "Xã Nam Tiên Hưng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12775",
+        "ten": "Xã Nam Đông Hưng",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12793",
+        "ten": "Xã Đông Quan",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12817",
+        "ten": "Phường Trà Lý",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12826",
+        "ten": "Xã Thái Thụy",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12850",
+        "ten": "Xã Tây Thụy Anh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12859",
+        "ten": "Xã Bắc Thụy Anh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12862",
+        "ten": "Xã Đông Thụy Anh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12865",
+        "ten": "Xã Thụy Anh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12904",
+        "ten": "Xã Nam Thụy Anh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12916",
+        "ten": "Xã Bắc Thái Ninh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12919",
+        "ten": "Xã Tây Thái Ninh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12922",
+        "ten": "Xã Thái Ninh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12943",
+        "ten": "Xã Đông Thái Ninh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12961",
+        "ten": "Xã Nam Thái Ninh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12970",
+        "ten": "Xã Tiền Hải",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "12988",
+        "ten": "Xã Đông Tiền Hải",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13003",
+        "ten": "Xã Đồng Châu",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13021",
+        "ten": "Xã Ái Quốc",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13039",
+        "ten": "Xã Tây Tiền Hải",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13057",
+        "ten": "Xã Nam Cường",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13063",
+        "ten": "Xã Nam Tiền Hải",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13066",
+        "ten": "Xã Hưng Phú",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13075",
+        "ten": "Xã Kiến Xương",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13093",
+        "ten": "Xã Trà Giang",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13096",
+        "ten": "Xã Bình Nguyên",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13120",
+        "ten": "Xã Lê Lợi",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13132",
+        "ten": "Xã Quang Lịch",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13141",
+        "ten": "Xã Vũ Quý",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13159",
+        "ten": "Xã Hồng Vũ",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13183",
+        "ten": "Xã Bình Thanh",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13186",
+        "ten": "Xã Bình Định",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13192",
+        "ten": "Xã Vũ Thư",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13219",
+        "ten": "Xã Vạn Xuân",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13222",
+        "ten": "Xã Thư Trì",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13225",
+        "ten": "Phường Thái Bình",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13246",
+        "ten": "Xã Tân Thuận",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13264",
+        "ten": "Xã Thư Vũ",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    },
+    {
+        "ma": "13279",
+        "ten": "Xã Vũ Tiên",
+        "ma_tp": "33",
+        "ten_tp": "Tỉnh Hưng Yên"
+    }
+]

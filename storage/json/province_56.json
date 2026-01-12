@@ -1,0 +1,392 @@
+[
+    {
+        "ma": "22333",
+        "ten": "Phường Bắc Nha Trang",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22366",
+        "ten": "Phường Nha Trang",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22390",
+        "ten": "Phường Tây Nha Trang",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22402",
+        "ten": "Phường Nam Nha Trang",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22411",
+        "ten": "Phường Bắc Cam Ranh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22420",
+        "ten": "Phường Cam Ranh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22423",
+        "ten": "Phường Ba Ngòi",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22432",
+        "ten": "Phường Cam Linh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22435",
+        "ten": "Xã Cam Hiệp",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22453",
+        "ten": "Xã Cam Lâm",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22465",
+        "ten": "Xã Cam An",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22480",
+        "ten": "Xã Nam Cam Ranh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22489",
+        "ten": "Xã Vạn Ninh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22498",
+        "ten": "Xã Tu Bông",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22504",
+        "ten": "Xã Đại Lãnh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22516",
+        "ten": "Xã Vạn Thắng",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22525",
+        "ten": "Xã Vạn Hưng",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22528",
+        "ten": "Phường Ninh Hòa",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22546",
+        "ten": "Xã Bắc Ninh Hòa",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22552",
+        "ten": "Xã Tây Ninh Hòa",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22558",
+        "ten": "Xã Hòa Trí",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22561",
+        "ten": "Phường Đông Ninh Hòa",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22576",
+        "ten": "Xã Tân Định",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22591",
+        "ten": "Phường Hòa Thắng",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22597",
+        "ten": "Xã Nam Ninh Hòa",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22609",
+        "ten": "Xã Khánh Vĩnh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22612",
+        "ten": "Xã Trung Khánh Vĩnh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22615",
+        "ten": "Xã Bắc Khánh Vĩnh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22624",
+        "ten": "Xã Tây Khánh Vĩnh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22648",
+        "ten": "Xã Nam Khánh Vĩnh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22651",
+        "ten": "Xã Diên Khánh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22657",
+        "ten": "Xã Diên Điền",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22660",
+        "ten": "Xã Diên Lâm",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22672",
+        "ten": "Xã Diên Thọ",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22678",
+        "ten": "Xã Diên Lạc",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22702",
+        "ten": "Xã Suối Hiệp",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22708",
+        "ten": "Xã Suối Dầu",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22714",
+        "ten": "Xã Khánh Sơn",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22720",
+        "ten": "Xã Tây Khánh Sơn",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22732",
+        "ten": "Xã Đông Khánh Sơn",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22736",
+        "ten": "Đặc khu Trường Sa",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22738",
+        "ten": "Phường Đô Vinh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22741",
+        "ten": "Phường Bảo An",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22759",
+        "ten": "Phường Phan Rang",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22780",
+        "ten": "Phường Đông Hải",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22786",
+        "ten": "Xã Bác Ái Tây",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22795",
+        "ten": "Xã Bác Ái",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22801",
+        "ten": "Xã Bác Ái Đông",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22810",
+        "ten": "Xã Ninh Sơn",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22813",
+        "ten": "Xã Lâm Sơn",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22822",
+        "ten": "Xã Mỹ Sơn",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22828",
+        "ten": "Xã Anh Dũng",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22834",
+        "ten": "Phường Ninh Chử",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22840",
+        "ten": "Xã Công Hải",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22846",
+        "ten": "Xã Vĩnh Hải",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22849",
+        "ten": "Xã Thuận Bắc",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22852",
+        "ten": "Xã Ninh Hải",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22861",
+        "ten": "Xã Xuân Hải",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22870",
+        "ten": "Xã Ninh Phước",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22873",
+        "ten": "Xã Phước Hậu",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22888",
+        "ten": "Xã Phước Dinh",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22891",
+        "ten": "Xã Phước Hữu",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22897",
+        "ten": "Xã Thuận Nam",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22900",
+        "ten": "Xã Phước Hà",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    },
+    {
+        "ma": "22909",
+        "ten": "Xã Cà Ná",
+        "ma_tp": "56",
+        "ten_tp": "Tỉnh Khánh Hòa"
+    }
+]

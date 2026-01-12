@@ -1,0 +1,416 @@
+[
+    {
+        "ma": "18073",
+        "ten": "Phường Thành Sen",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18100",
+        "ten": "Phường Trần Phú",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18115",
+        "ten": "Phường Bắc Hồng Lĩnh",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18118",
+        "ten": "Phường Nam Hồng Lĩnh",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18133",
+        "ten": "Xã Hương Sơn",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18160",
+        "ten": "Xã Sơn Hồng",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18163",
+        "ten": "Xã Sơn Tiến",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18172",
+        "ten": "Xã Sơn Tây",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18184",
+        "ten": "Xã Sơn Giang",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18196",
+        "ten": "Xã Sơn Kim 1",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18199",
+        "ten": "Xã Sơn Kim 2",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18202",
+        "ten": "Xã Tứ Mỹ",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18223",
+        "ten": "Xã Kim Hoa",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18229",
+        "ten": "Xã Đức Thọ",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18244",
+        "ten": "Xã Đức Minh",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18262",
+        "ten": "Xã Đức Quang",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18277",
+        "ten": "Xã Đức Thịnh",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18304",
+        "ten": "Xã Đức Đồng",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18313",
+        "ten": "Xã Vũ Quang",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18322",
+        "ten": "Xã Mai Hoa",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18328",
+        "ten": "Xã Thượng Đức",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18352",
+        "ten": "Xã Nghi Xuân",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18364",
+        "ten": "Xã Đan Hải",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18373",
+        "ten": "Xã Tiên Điền",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18394",
+        "ten": "Xã Cổ Đạm",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18406",
+        "ten": "Xã Can Lộc",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18409",
+        "ten": "Xã Hồng Lộc",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18418",
+        "ten": "Xã Tùng Lộc",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18436",
+        "ten": "Xã Trường Lưu",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18466",
+        "ten": "Xã Gia Hanh",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18481",
+        "ten": "Xã Xuân Lộc",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18484",
+        "ten": "Xã Đồng Lộc",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18496",
+        "ten": "Xã Hương Khê",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18502",
+        "ten": "Xã Hà Linh",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18523",
+        "ten": "Xã Hương Bình",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18532",
+        "ten": "Xã Hương Phố",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18544",
+        "ten": "Xã Hương Xuân",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18547",
+        "ten": "Xã Phúc Trạch",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18550",
+        "ten": "Xã Hương Đô",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18562",
+        "ten": "Xã Thạch Hà",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18568",
+        "ten": "Xã Lộc Hà",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18583",
+        "ten": "Xã Mai Phụ",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18586",
+        "ten": "Xã Đông Kinh",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18601",
+        "ten": "Xã Việt Xuyên",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18604",
+        "ten": "Xã Thạch Khê",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18619",
+        "ten": "Xã Đồng Tiến",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18628",
+        "ten": "Xã Thạch Lạc",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18634",
+        "ten": "Xã Toàn Lưu",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18652",
+        "ten": "Phường Hà Huy Tập",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18667",
+        "ten": "Xã Thạch Xuân",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18673",
+        "ten": "Xã Cẩm Xuyên",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18676",
+        "ten": "Xã Thiên Cầm",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18682",
+        "ten": "Xã Yên Hòa",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18685",
+        "ten": "Xã Cẩm Bình",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18736",
+        "ten": "Xã Cẩm Hưng",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18739",
+        "ten": "Xã Cẩm Duệ",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18742",
+        "ten": "Xã Cẩm Trung",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18748",
+        "ten": "Xã Cẩm Lạc",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18754",
+        "ten": "Phường Sông Trí",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18766",
+        "ten": "Xã Kỳ Xuân",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18775",
+        "ten": "Xã Kỳ Anh",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18781",
+        "ten": "Phường Hải Ninh",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18787",
+        "ten": "Xã Kỳ Văn",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18790",
+        "ten": "Xã Kỳ Khang",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18814",
+        "ten": "Xã Kỳ Hoa",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18823",
+        "ten": "Phường Vũng Áng",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18832",
+        "ten": "Phường Hoành Sơn",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18838",
+        "ten": "Xã Kỳ Lạc",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    },
+    {
+        "ma": "18844",
+        "ten": "Xã Kỳ Thượng",
+        "ma_tp": "42",
+        "ten_tp": "Tỉnh Hà Tĩnh"
+    }
+]

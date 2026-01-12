@@ -1,0 +1,338 @@
+[
+    {
+        "ma": "01273",
+        "ten": "Phường Thục Phán",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01279",
+        "ten": "Phường Nùng Trí Cao",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01288",
+        "ten": "Phường Tân Giang",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01290",
+        "ten": "Xã Bảo Lâm",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01294",
+        "ten": "Xã Lý Bôn",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01297",
+        "ten": "Xã Nam Quang",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01304",
+        "ten": "Xã Quảng Lâm",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01318",
+        "ten": "Xã Yên Thổ",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01321",
+        "ten": "Xã Bảo Lạc",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01324",
+        "ten": "Xã Cốc Pàng",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01327",
+        "ten": "Xã Cô Ba",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01336",
+        "ten": "Xã Khánh Xuân",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01339",
+        "ten": "Xã Xuân Trường",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01351",
+        "ten": "Xã Hưng Đạo",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01354",
+        "ten": "Xã Huy Giáp",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01360",
+        "ten": "Xã Sơn Lộ",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01363",
+        "ten": "Xã Thông Nông",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01366",
+        "ten": "Xã Cần Yên",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01387",
+        "ten": "Xã Thanh Long",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01392",
+        "ten": "Xã Trường Hà",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01393",
+        "ten": "Xã Lũng Nặm",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01414",
+        "ten": "Xã Tổng Cọt",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01438",
+        "ten": "Xã Hà Quảng",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01447",
+        "ten": "Xã Trà Lĩnh",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01456",
+        "ten": "Xã Quang Hán",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01465",
+        "ten": "Xã Quang Trung",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01477",
+        "ten": "Xã Trùng Khánh",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01489",
+        "ten": "Xã Đình Phong",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01501",
+        "ten": "Xã Đàm Thủy",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01525",
+        "ten": "Xã Đoài Dương",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01537",
+        "ten": "Xã Lý Quốc",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01552",
+        "ten": "Xã Quang Long",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01558",
+        "ten": "Xã Hạ Lang",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01561",
+        "ten": "Xã Vinh Quý",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01576",
+        "ten": "Xã Quảng Uyên",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01594",
+        "ten": "Xã Độc Lập",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01618",
+        "ten": "Xã Hạnh Phúc",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01636",
+        "ten": "Xã Bế Văn Đàn",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01648",
+        "ten": "Xã Phục Hòa",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01654",
+        "ten": "Xã Hòa An",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01660",
+        "ten": "Xã Nam Tuấn",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01699",
+        "ten": "Xã Nguyễn Huệ",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01708",
+        "ten": "Xã Bạch Đằng",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01726",
+        "ten": "Xã Nguyên Bình",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01729",
+        "ten": "Xã Tĩnh Túc",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01738",
+        "ten": "Xã Ca Thành",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01747",
+        "ten": "Xã Minh Tâm",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01768",
+        "ten": "Xã Phan Thanh",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01774",
+        "ten": "Xã Tam Kim",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01777",
+        "ten": "Xã Thành Công",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01786",
+        "ten": "Xã Đông Khê",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01789",
+        "ten": "Xã Canh Tân",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01792",
+        "ten": "Xã Kim Đồng",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01795",
+        "ten": "Xã Minh Khai",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01807",
+        "ten": "Xã Thạch An",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    },
+    {
+        "ma": "01822",
+        "ten": "Xã Đức Long",
+        "ma_tp": "04",
+        "ten_tp": "Tỉnh Cao Bằng"
+    }
+]
