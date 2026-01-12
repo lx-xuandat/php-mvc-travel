@@ -1,0 +1,566 @@
+[
+    {
+        "ma": "20194",
+        "ten": "Phường Hải Vân",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20197",
+        "ten": "Phường Liên Chiểu",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20200",
+        "ten": "Phường Hòa Khánh",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20209",
+        "ten": "Phường Thanh Khê",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20242",
+        "ten": "Phường Hải Châu",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20257",
+        "ten": "Phường Hòa Cường",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20260",
+        "ten": "Phường Cẩm Lệ",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20263",
+        "ten": "Phường Sơn Trà",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20275",
+        "ten": "Phường An Hải",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20285",
+        "ten": "Phường Ngũ Hành Sơn",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20305",
+        "ten": "Phường An Khê",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20308",
+        "ten": "Xã Bà Nà",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20314",
+        "ten": "Phường Hòa Xuân",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20320",
+        "ten": "Xã Hòa Vang",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20332",
+        "ten": "Xã Hòa Tiến",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20333",
+        "ten": "Đặc khu Hoàng Sa",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20335",
+        "ten": "Phường Bàn Thạch",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20341",
+        "ten": "Phường Tam Kỳ",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20350",
+        "ten": "Phường Hương Trà",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20356",
+        "ten": "Phường Quảng Phú",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20364",
+        "ten": "Xã Chiên Đàn",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20380",
+        "ten": "Xã Tây Hồ",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20392",
+        "ten": "Xã Phú Ninh",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20401",
+        "ten": "Phường Hội An Tây",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20410",
+        "ten": "Phường Hội An",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20413",
+        "ten": "Phường Hội An Đông",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20434",
+        "ten": "Xã Tân Hiệp",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20443",
+        "ten": "Xã Hùng Sơn",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20455",
+        "ten": "Xã Tây Giang",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20458",
+        "ten": "Xã Avương",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20467",
+        "ten": "Xã Đông Giang",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20476",
+        "ten": "Xã Sông Kôn",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20485",
+        "ten": "Xã Sông Vàng",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20494",
+        "ten": "Xã Bến Hiên",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20500",
+        "ten": "Xã Đại Lộc",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20506",
+        "ten": "Xã Thượng Đức",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20515",
+        "ten": "Xã Hà Nha",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20539",
+        "ten": "Xã Vu Gia",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20542",
+        "ten": "Xã Phú Thuận",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20551",
+        "ten": "Phường Điện Bàn",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20557",
+        "ten": "Phường Điện Bàn Bắc",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20569",
+        "ten": "Xã Điện Bàn Tây",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20575",
+        "ten": "Phường An Thắng",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20579",
+        "ten": "Phường Điện Bàn Đông",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20587",
+        "ten": "Xã Gò Nổi",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20599",
+        "ten": "Xã Nam Phước",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20611",
+        "ten": "Xã Thu Bồn",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20623",
+        "ten": "Xã Duy Xuyên",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20635",
+        "ten": "Xã Duy Nghĩa",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20641",
+        "ten": "Xã Quế Sơn",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20650",
+        "ten": "Xã Xuân Phú",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20656",
+        "ten": "Xã Nông Sơn",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20662",
+        "ten": "Xã Quế Sơn Trung",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20669",
+        "ten": "Xã Quế Phước",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20695",
+        "ten": "Xã Thạnh Mỹ",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20698",
+        "ten": "Xã La Êê",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20704",
+        "ten": "Xã La Dêê",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20707",
+        "ten": "Xã Nam Giang",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20710",
+        "ten": "Xã Bến Giằng",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20716",
+        "ten": "Xã Đắc Pring",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20722",
+        "ten": "Xã Khâm Đức",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20728",
+        "ten": "Xã Phước Hiệp",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20734",
+        "ten": "Xã Phước Năng",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20740",
+        "ten": "Xã Phước Chánh",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20752",
+        "ten": "Xã Phước Thành",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20767",
+        "ten": "Xã Việt An",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20770",
+        "ten": "Xã Phước Trà",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20779",
+        "ten": "Xã Hiệp Đức",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20791",
+        "ten": "Xã Thăng Bình",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20794",
+        "ten": "Xã Thăng An",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20818",
+        "ten": "Xã Đồng Dương",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20827",
+        "ten": "Xã Thăng Phú",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20836",
+        "ten": "Xã Thăng Trường",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20848",
+        "ten": "Xã Thăng Điền",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20854",
+        "ten": "Xã Tiên Phước",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20857",
+        "ten": "Xã Sơn Cẩm Hà",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20875",
+        "ten": "Xã Lãnh Ngọc",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20878",
+        "ten": "Xã Thạnh Bình",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20900",
+        "ten": "Xã Trà My",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20908",
+        "ten": "Xã Trà Liên",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20920",
+        "ten": "Xã Trà Đốc",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20923",
+        "ten": "Xã Trà Tân",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20929",
+        "ten": "Xã Trà Giáp",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20938",
+        "ten": "Xã Trà Leng",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20941",
+        "ten": "Xã Trà Tập",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20944",
+        "ten": "Xã Nam Trà My",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20950",
+        "ten": "Xã Trà Linh",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20959",
+        "ten": "Xã Trà Vân",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20965",
+        "ten": "Xã Núi Thành",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20971",
+        "ten": "Xã Tam Xuân",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20977",
+        "ten": "Xã Đức Phú",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20984",
+        "ten": "Xã Tam Anh",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "20992",
+        "ten": "Xã Tam Hải",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    },
+    {
+        "ma": "21004",
+        "ten": "Xã Tam Mỹ",
+        "ma_tp": "48",
+        "ten_tp": "Thành phố Đà Nẵng"
+    }
+]

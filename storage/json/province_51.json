@@ -1,0 +1,578 @@
+[
+    {
+        "ma": "21025",
+        "ten": "Phường Cẩm Thành",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21028",
+        "ten": "Phường Nghĩa Lộ",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21034",
+        "ten": "Xã An Phú",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21040",
+        "ten": "Xã Bình Sơn",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21061",
+        "ten": "Xã Vạn Tường",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21085",
+        "ten": "Xã Bình Minh",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21100",
+        "ten": "Xã Bình Chương",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21109",
+        "ten": "Xã Đông Sơn",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21115",
+        "ten": "Xã Trà Bồng",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21124",
+        "ten": "Xã Thanh Bồng",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21127",
+        "ten": "Xã Đông Trà Bồng",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21136",
+        "ten": "Xã Cà Đam",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21154",
+        "ten": "Xã Tây Trà",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21157",
+        "ten": "Xã Tây Trà Bồng",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21172",
+        "ten": "Phường Trương Quang Trọng",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21181",
+        "ten": "Xã Thọ Phong",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21196",
+        "ten": "Xã Trường Giang",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21205",
+        "ten": "Xã Ba Gia",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21211",
+        "ten": "Xã Tịnh Khê",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21220",
+        "ten": "Xã Sơn Tịnh",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21235",
+        "ten": "Xã Tư Nghĩa",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21238",
+        "ten": "Xã Vệ Giang",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21244",
+        "ten": "Xã Trà Giang",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21250",
+        "ten": "Xã Nghĩa Giang",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21289",
+        "ten": "Xã Sơn Hà",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21292",
+        "ten": "Xã Sơn Hạ",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21307",
+        "ten": "Xã Sơn Linh",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21319",
+        "ten": "Xã Sơn Thủy",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21325",
+        "ten": "Xã Sơn Kỳ",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21334",
+        "ten": "Xã Sơn Tây Thượng",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21340",
+        "ten": "Xã Sơn Tây",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21343",
+        "ten": "Xã Sơn Tây Hạ",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21349",
+        "ten": "Xã Sơn Mai",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21361",
+        "ten": "Xã Minh Long",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21364",
+        "ten": "Xã Nghĩa Hành",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21370",
+        "ten": "Xã Phước Giang",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21385",
+        "ten": "Xã Đình Cương",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21388",
+        "ten": "Xã Thiện Tín",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21400",
+        "ten": "Xã Mộ Đức",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21409",
+        "ten": "Xã Long Phụng",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21421",
+        "ten": "Xã Mỏ Cày",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21433",
+        "ten": "Xã Lân Phong",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21439",
+        "ten": "Phường Đức Phổ",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21451",
+        "ten": "Phường Trà Câu",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21457",
+        "ten": "Xã Nguyễn Nghiêm",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21472",
+        "ten": "Xã Khánh Cường",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21478",
+        "ten": "Phường Sa Huỳnh",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21484",
+        "ten": "Xã Ba Tơ",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21490",
+        "ten": "Xã Ba Vinh",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21496",
+        "ten": "Xã Ba Động",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21499",
+        "ten": "Xã Ba Dinh",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21520",
+        "ten": "Xã Đặng Thùy Trâm",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21523",
+        "ten": "Xã Ba Tô",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21529",
+        "ten": "Xã Ba Vì",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21538",
+        "ten": "Xã Ba Xa",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "21548",
+        "ten": "Đặc khu Lý Sơn",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23284",
+        "ten": "Phường Đăk Cấm",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23293",
+        "ten": "Phường Kon Tum",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23302",
+        "ten": "Phường Đăk Bla",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23317",
+        "ten": "Xã Ngọk Bay",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23326",
+        "ten": "Xã Ia Chim",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23332",
+        "ten": "Xã Đăk Rơ Wa",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23341",
+        "ten": "Xã Đăk Pék",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23344",
+        "ten": "Xã Đăk Plô",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23356",
+        "ten": "Xã Xốp",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23365",
+        "ten": "Xã Ngọc Linh",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23368",
+        "ten": "Xã Đăk Long",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23374",
+        "ten": "Xã Đăk Môn",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23377",
+        "ten": "Xã Bờ Y",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23383",
+        "ten": "Xã Dục Nông",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23392",
+        "ten": "Xã Sa Loong",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23401",
+        "ten": "Xã Đăk Tô",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23416",
+        "ten": "Xã Đăk Sao",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23419",
+        "ten": "Xã Đăk Tờ Kan",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23425",
+        "ten": "Xã Tu Mơ Rông",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23428",
+        "ten": "Xã Ngọk Tụ",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23430",
+        "ten": "Xã Kon Đào",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23446",
+        "ten": "Xã Măng Ri",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23455",
+        "ten": "Xã Măng Bút",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23473",
+        "ten": "Xã Măng Đen",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23476",
+        "ten": "Xã Kon Plông",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23479",
+        "ten": "Xã Đăk Rve",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23485",
+        "ten": "Xã Đăk Kôi",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23497",
+        "ten": "Xã Kon Braih",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23500",
+        "ten": "Xã Đăk Hà",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23504",
+        "ten": "Xã Đăk Pxi",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23510",
+        "ten": "Xã Đăk Ui",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23512",
+        "ten": "Xã Đăk Mar",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23515",
+        "ten": "Xã Ngọk Réo",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23527",
+        "ten": "Xã Sa Thầy",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23530",
+        "ten": "Xã Rờ Kơi",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23534",
+        "ten": "Xã Sa Bình",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23535",
+        "ten": "Xã Ia Đal",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23536",
+        "ten": "Xã Mô Rai",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23538",
+        "ten": "Xã Ia Tơi",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    },
+    {
+        "ma": "23548",
+        "ten": "Xã Ya Ly",
+        "ma_tp": "51",
+        "ten_tp": "Tỉnh Quảng Ngãi"
+    }
+]

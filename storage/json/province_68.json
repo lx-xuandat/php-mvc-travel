@@ -1,0 +1,746 @@
+[
+    {
+        "ma": "22918",
+        "ten": "Phường Mũi Né",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "22924",
+        "ten": "Phường Phú Thuỷ",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "22933",
+        "ten": "Phường Hàm Thắng",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "22945",
+        "ten": "Phường Phan Thiết",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "22954",
+        "ten": "Phường Tiến Thành",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "22960",
+        "ten": "Phường Bình Thuận",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "22963",
+        "ten": "Xã Tuyên Quang",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "22969",
+        "ten": "Xã Liên Hương",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "22972",
+        "ten": "Xã Phan Rí Cửa",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "22978",
+        "ten": "Xã Tuy Phong",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "22981",
+        "ten": "Xã Vĩnh Hảo",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23005",
+        "ten": "Xã Bắc Bình",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23008",
+        "ten": "Xã Phan Sơn",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23020",
+        "ten": "Xã Hải Ninh",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23023",
+        "ten": "Xã Sông Lũy",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23032",
+        "ten": "Xã Lương Sơn",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23041",
+        "ten": "Xã Hồng Thái",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23053",
+        "ten": "Xã Hòa Thắng",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23059",
+        "ten": "Xã Hàm Thuận",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23065",
+        "ten": "Xã La Dạ",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23074",
+        "ten": "Xã Đông Giang",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23086",
+        "ten": "Xã Hồng Sơn",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23089",
+        "ten": "Xã Hàm Thuận Bắc",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23095",
+        "ten": "Xã Hàm Liêm",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23110",
+        "ten": "Xã Hàm Thuận Nam",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23122",
+        "ten": "Xã Hàm Thạnh",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23128",
+        "ten": "Xã Hàm Kiệm",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23134",
+        "ten": "Xã Tân Lập",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23143",
+        "ten": "Xã Tân Thành",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23149",
+        "ten": "Xã Tánh Linh",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23152",
+        "ten": "Xã Bắc Ruộng",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23158",
+        "ten": "Xã Nghị Đức",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23173",
+        "ten": "Xã Đồng Kho",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23188",
+        "ten": "Xã Suối Kiết",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23191",
+        "ten": "Xã Đức Linh",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23194",
+        "ten": "Xã Hoài Đức",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23200",
+        "ten": "Xã Nam Thành",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23227",
+        "ten": "Xã Trà Tân",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23230",
+        "ten": "Xã Tân Minh",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23231",
+        "ten": "Phường Phước Hội",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23235",
+        "ten": "Phường La Gi",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23236",
+        "ten": "Xã Hàm Tân",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23246",
+        "ten": "Xã Tân Hải",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23266",
+        "ten": "Xã Sơn Mỹ",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "23272",
+        "ten": "Đặc khu Phú Quý",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24611",
+        "ten": "Phường Bắc Gia Nghĩa",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24615",
+        "ten": "Phường Nam Gia Nghĩa",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24616",
+        "ten": "Xã Quảng Sơn",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24617",
+        "ten": "Phường Đông Gia Nghĩa",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24620",
+        "ten": "Xã Quảng Hòa",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24631",
+        "ten": "Xã Quảng Khê",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24637",
+        "ten": "Xã Tà Đùng",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24640",
+        "ten": "Xã Cư Jút",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24646",
+        "ten": "Xã Đắk Wil",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24649",
+        "ten": "Xã Nam Dong",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24664",
+        "ten": "Xã Đức Lập",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24670",
+        "ten": "Xã Đắk Mil",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24678",
+        "ten": "Xã Đắk Sắk",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24682",
+        "ten": "Xã Thuận An",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24688",
+        "ten": "Xã Krông Nô",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24697",
+        "ten": "Xã Nam Đà",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24703",
+        "ten": "Xã Nâm Nung",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24712",
+        "ten": "Xã Quảng Phú",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24717",
+        "ten": " Xã Đức An",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24718",
+        "ten": "Xã Đắk Song",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24722",
+        "ten": "Xã Thuận Hạnh",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24730",
+        "ten": "Xã Trường Xuân",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24733",
+        "ten": "Xã Kiến Đức",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24736",
+        "ten": "Xã Quảng Trực",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24739",
+        "ten": "Xã Tuy Đức",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24748",
+        "ten": "Xã Quảng Tân",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24751",
+        "ten": "Xã Nhân Cơ",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24760",
+        "ten": "Xã Quảng Tín",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24778",
+        "ten": "Phường Lâm Viên - Đà Lạt",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24781",
+        "ten": "Phường Xuân Hương - Đà Lạt",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24787",
+        "ten": "Phường Cam Ly - Đà Lạt",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24805",
+        "ten": "Phường Xuân Trường - Đà Lạt",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24820",
+        "ten": "Phường 2 Bảo Lộc",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24823",
+        "ten": "Phường 1 Bảo Lộc",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24829",
+        "ten": "Phường B’Lao",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24841",
+        "ten": "Phường 3 Bảo Lộc",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24846",
+        "ten": "Phường Lang Biang - Đà Lạt",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24848",
+        "ten": "Xã Lạc Dương",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24853",
+        "ten": "Xã Đam Rông 4",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24868",
+        "ten": "Xã Nam Ban Lâm Hà",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24871",
+        "ten": "Xã Đinh Văn Lâm Hà",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24875",
+        "ten": "Xã Đam Rông 3",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24877",
+        "ten": "Xã Đam Rông 2",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24883",
+        "ten": "Xã Nam Hà Lâm Hà",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24886",
+        "ten": "Xã Đam Rông 1",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24895",
+        "ten": "Xã Phú Sơn Lâm Hà",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24907",
+        "ten": "Xã Phúc Thọ Lâm Hà",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24916",
+        "ten": "Xã Tân Hà Lâm Hà",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24931",
+        "ten": "Xã Đơn Dương",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24934",
+        "ten": "Xã D’Ran",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24943",
+        "ten": "Xã Ka Đô",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24955",
+        "ten": "Xã Quảng Lập",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24958",
+        "ten": "Xã Đức Trọng",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24967",
+        "ten": "Xã Hiệp Thạnh",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24976",
+        "ten": "Xã Tân Hội",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24985",
+        "ten": "Xã Ninh Gia",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24988",
+        "ten": "Xã Tà Năng",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "24991",
+        "ten": "Xã Tà Hine",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25000",
+        "ten": "Xã Di Linh",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25007",
+        "ten": "Xã Đinh Trang Thượng",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25015",
+        "ten": "Xã Gia Hiệp",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25018",
+        "ten": "Xã Bảo Thuận",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25036",
+        "ten": "Xã Hòa Ninh",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25042",
+        "ten": "Xã Hòa Bắc",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25051",
+        "ten": "Xã Sơn Điền",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25054",
+        "ten": "Xã Bảo Lâm 1",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25057",
+        "ten": "Xã Bảo Lâm 5",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25063",
+        "ten": "Xã Bảo Lâm 4",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25084",
+        "ten": "Xã Bảo Lâm 2",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25093",
+        "ten": "Xã Bảo Lâm 3",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25099",
+        "ten": "Xã Đạ Huoai",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25105",
+        "ten": "Xã Đạ Huoai 2",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25114",
+        "ten": "Xã Đạ Huoai 3",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25126",
+        "ten": "Xã Đạ Tẻh",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25135",
+        "ten": "Xã Đạ Tẻh 3",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25138",
+        "ten": "Xã Đạ Tẻh 2",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25159",
+        "ten": "Xã Cát Tiên",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25162",
+        "ten": "Xã Cát Tiên 3",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    },
+    {
+        "ma": "25180",
+        "ten": "Xã Cát Tiên 2",
+        "ma_tp": "68",
+        "ten_tp": "Tỉnh Lâm Đồng"
+    }
+]

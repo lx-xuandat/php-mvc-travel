@@ -1,0 +1,614 @@
+[
+    {
+        "ma": "30292",
+        "ten": "Phường Bình Đức",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30301",
+        "ten": "Phường Mỹ Thới",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30307",
+        "ten": "Phường Long Xuyên",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30313",
+        "ten": "Xã Mỹ Hòa Hưng",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30316",
+        "ten": "Phường Châu Đốc",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30325",
+        "ten": "Phường Vĩnh Tế",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30337",
+        "ten": "Xã An Phú",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30341",
+        "ten": "Xã Khánh Bình",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30346",
+        "ten": "Xã Nhơn Hội",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30352",
+        "ten": "Xã Phú Hữu",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30367",
+        "ten": "Xã Vĩnh Hậu",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30376",
+        "ten": "Phường Tân Châu",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30377",
+        "ten": "Phường Long Phú",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30385",
+        "ten": "Xã Vĩnh Xương",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30388",
+        "ten": "Xã Tân An",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30403",
+        "ten": "Xã Châu Phong",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30406",
+        "ten": "Xã Phú Tân",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30409",
+        "ten": "Xã Chợ Vàm",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30421",
+        "ten": "Xã Phú Lâm",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30430",
+        "ten": "Xã Hòa Lạc",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30436",
+        "ten": "Xã Phú An",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30445",
+        "ten": "Xã Bình Thạnh Đông",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30463",
+        "ten": "Xã Châu Phú",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30469",
+        "ten": "Xã Mỹ Đức",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30478",
+        "ten": "Xã Vĩnh Thạnh Trung",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30481",
+        "ten": "Xã Thạnh Mỹ Tây",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30487",
+        "ten": "Xã Bình Mỹ",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30502",
+        "ten": "Phường Thới Sơn",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30505",
+        "ten": "Phường Chi Lăng",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30520",
+        "ten": "Phường Tịnh Biên",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30526",
+        "ten": "Xã An Cư",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30538",
+        "ten": "Xã Núi Cấm",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30544",
+        "ten": "Xã Tri Tôn",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30547",
+        "ten": "Xã Ba Chúc",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30568",
+        "ten": "Xã Vĩnh Gia",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30577",
+        "ten": "Xã Ô Lâm",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30580",
+        "ten": "Xã Cô Tô",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30589",
+        "ten": "Xã An Châu",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30595",
+        "ten": "Xã Cần Đăng",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30604",
+        "ten": "Xã Vĩnh An",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30607",
+        "ten": "Xã Bình Hòa",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30619",
+        "ten": "Xã Vĩnh Hanh",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30628",
+        "ten": "Xã Chợ Mới",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30631",
+        "ten": "Xã Long Điền",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30643",
+        "ten": "Xã Cù Lao Giêng",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30658",
+        "ten": "Xã Nhơn Mỹ",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30664",
+        "ten": "Xã Long Kiến",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30673",
+        "ten": "Xã Hội An",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30682",
+        "ten": "Xã Thoại Sơn",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30685",
+        "ten": "Xã Phú Hòa",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30688",
+        "ten": "Xã Óc Eo",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30691",
+        "ten": "Xã Tây Phú",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30697",
+        "ten": "Xã Vĩnh Trạch",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30709",
+        "ten": "Xã Định Mỹ",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30742",
+        "ten": "Phường Rạch Giá",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30760",
+        "ten": "Phường Vĩnh Thông",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30766",
+        "ten": "Phường Tô Châu",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30769",
+        "ten": "Phường Hà Tiên",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30781",
+        "ten": "Xã Tiên Hải",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30787",
+        "ten": "Xã Kiên Lương",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30790",
+        "ten": "Xã Hòa Điền",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30793",
+        "ten": "Xã Vĩnh Điều",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30796",
+        "ten": "Xã Giang Thành",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30811",
+        "ten": "Xã Sơn Hải",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30814",
+        "ten": "Xã Hòn Nghệ",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30817",
+        "ten": "Xã Hòn Đất",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30823",
+        "ten": "Xã Bình Sơn",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30826",
+        "ten": "Xã Bình Giang",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30835",
+        "ten": "Xã Sơn Kiên",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30838",
+        "ten": "Xã Mỹ Thuận",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30850",
+        "ten": "Xã Tân Hiệp",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30856",
+        "ten": "Xã Tân Hội",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30874",
+        "ten": "Xã Thạnh Đông",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30880",
+        "ten": "Xã Châu Thành",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30886",
+        "ten": "Xã Thạnh Lộc",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30898",
+        "ten": "Xã Bình An",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30904",
+        "ten": "Xã Giồng Riềng",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30910",
+        "ten": "Xã Thạnh Hưng",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30928",
+        "ten": "Xã Ngọc Chúc",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30934",
+        "ten": "Xã Hòa Hưng",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30943",
+        "ten": "Xã Long Thạnh",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30949",
+        "ten": "Xã Hòa Thuận",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30952",
+        "ten": "Xã Gò Quao",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30958",
+        "ten": "Xã Định Hòa",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30970",
+        "ten": "Xã Vĩnh Hòa Hưng",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30982",
+        "ten": "Xã Vĩnh Tuy",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30985",
+        "ten": "Xã An Biên",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "30988",
+        "ten": "Xã Tây Yên",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31006",
+        "ten": "Xã Đông Thái",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31012",
+        "ten": "Xã Vĩnh Hòa",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31018",
+        "ten": "Xã An Minh",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31024",
+        "ten": "Xã Đông Hòa",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31027",
+        "ten": "Xã U Minh Thượng",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31031",
+        "ten": "Xã Tân Thạnh",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31036",
+        "ten": "Xã Đông Hưng",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31042",
+        "ten": "Xã Vân Khánh",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31051",
+        "ten": "Xã Vĩnh Phong",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31064",
+        "ten": "Xã Vĩnh Bình",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31069",
+        "ten": "Xã Vĩnh Thuận",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31078",
+        "ten": "Đặc khu Phú Quốc",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31105",
+        "ten": "Đặc khu Thổ Châu",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    },
+    {
+        "ma": "31108",
+        "ten": "Đặc khu Kiên Hải",
+        "ma_tp": "91",
+        "ten_tp": "Tỉnh An Giang"
+    }
+]

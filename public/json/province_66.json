@@ -1,0 +1,614 @@
+[
+    {
+        "ma": "22015",
+        "ten": " Phường Tuy Hòa",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22045",
+        "ten": " Phường Bình Kiến",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22051",
+        "ten": " Phường Sông Cầu",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22057",
+        "ten": "Xã Xuân Lộc",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22060",
+        "ten": "Xã Xuân Cảnh",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22075",
+        "ten": "Xã Xuân Thọ",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22076",
+        "ten": " Phường Xuân Đài",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22081",
+        "ten": "Xã Đồng Xuân",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22090",
+        "ten": "Xã Xuân Lãnh",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22096",
+        "ten": "Xã Phú Mỡ",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22111",
+        "ten": "Xã Xuân Phước",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22114",
+        "ten": "Xã Tuy An Bắc",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22120",
+        "ten": "Xã Tuy An Đông",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22132",
+        "ten": "Xã Tuy An Tây",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22147",
+        "ten": "Xã Ô Loan",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22153",
+        "ten": "Xã Tuy An Nam",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22165",
+        "ten": "Xã Sơn Hòa",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22171",
+        "ten": "Xã Tây Sơn",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22177",
+        "ten": "Xã Vân Hòa",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22192",
+        "ten": "Xã Suối Trai",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22207",
+        "ten": "Xã Sông Hinh",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22222",
+        "ten": "Xã Đức Bình",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22225",
+        "ten": "Xã Ea Bá",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22237",
+        "ten": "Xã Ea Ly",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22240",
+        "ten": "  Phường Phú Yên",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22250",
+        "ten": "Xã Sơn Thành",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22255",
+        "ten": "Xã Tây Hòa",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22258",
+        "ten": " Phường Đông Hòa",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22261",
+        "ten": " Phường Hòa Hiệp",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22276",
+        "ten": "Xã Hòa Thịnh",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22285",
+        "ten": "Xã Hòa Mỹ",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22291",
+        "ten": "Xã Hòa Xuân",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22303",
+        "ten": "Xã Phú Hòa 2",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "22319",
+        "ten": "Xã Phú Hòa 1",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24121",
+        "ten": " Phường Tân Lập",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24133",
+        "ten": " Phường Buôn Ma Thuột",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24154",
+        "ten": " Phường Thành Nhất",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24163",
+        "ten": " Phường Tân An",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24169",
+        "ten": " Phường Ea Kao",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24175",
+        "ten": "Xã Hòa Phú",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24181",
+        "ten": "Xã Ea Drăng",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24184",
+        "ten": "Xã Ea H’Leo",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24187",
+        "ten": "Xã Ea Hiao",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24193",
+        "ten": "Xã Ea Wy",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24208",
+        "ten": "Xã Ea Khăl",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24211",
+        "ten": "Xã Ea Súp",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24214",
+        "ten": "Xã Ia Lốp",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24217",
+        "ten": "Xã Ea Rốk",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24221",
+        "ten": "Xã Ia Rvê",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24229",
+        "ten": "Xã Ea Bung",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24235",
+        "ten": "Xã Buôn Đôn",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24241",
+        "ten": "Xã Ea Wer",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24250",
+        "ten": "Xã Ea Nuôl",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24259",
+        "ten": "Xã Quảng Phú",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24265",
+        "ten": "Xã Ea Kiết",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24277",
+        "ten": "Xã Ea Tul",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24280",
+        "ten": "Xã Cư M’gar",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24286",
+        "ten": "Xã Ea M’Droh",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24301",
+        "ten": "Xã Cuôr Đăng",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24305",
+        "ten": " Phường Buôn Hồ",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24310",
+        "ten": "Xã Krông Búk",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24313",
+        "ten": "Xã Cư Pơng",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24316",
+        "ten": "Xã Pơng Drang",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24328",
+        "ten": "Xã Ea Drông",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24340",
+        "ten": " Phường Cư Bao",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24343",
+        "ten": "Xã Krông Năng",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24346",
+        "ten": "Xã Dliê Ya",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24352",
+        "ten": "Xã Tam Giang",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24364",
+        "ten": "Xã Phú Xuân",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24373",
+        "ten": "Xã Ea Kar",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24376",
+        "ten": "Xã Ea Knốp",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24400",
+        "ten": "Xã Ea Păl",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24403",
+        "ten": "Xã Ea Ô",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24406",
+        "ten": "Xã Cư Yang",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24412",
+        "ten": "Xã M’Drắk",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24415",
+        "ten": "Xã Cư Prao",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24433",
+        "ten": "Xã Ea Riêng",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24436",
+        "ten": "Xã Cư M’ta",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24444",
+        "ten": "Xã Krông Á",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24445",
+        "ten": "Xã Ea Trang",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24448",
+        "ten": "Xã Krông Bông",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24454",
+        "ten": "Xã Dang Kang",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24472",
+        "ten": "Xã Hòa Sơn",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24478",
+        "ten": "Xã Cư Pui",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24484",
+        "ten": "Xã Yang Mao",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24490",
+        "ten": "Xã Krông Pắc",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24496",
+        "ten": "Xã Ea Kly",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24502",
+        "ten": "Xã Ea Phê",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24505",
+        "ten": "Xã Ea Knuếc",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24526",
+        "ten": "Xã Tân Tiến",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24529",
+        "ten": "Xã Vụ Bổn",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24538",
+        "ten": "Xã Krông Ana",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24540",
+        "ten": "Xã Ea Ning",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24544",
+        "ten": "Xã Ea Ktur",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24559",
+        "ten": "Xã Ea Na",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24561",
+        "ten": "Xã Dray Bhăng",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24568",
+        "ten": "Xã Dur Kmăl",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24580",
+        "ten": "Xã Liên Sơn Lắk",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24595",
+        "ten": "Xã Đắk Liêng",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24598",
+        "ten": "Xã Đắk Phơi",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24604",
+        "ten": "Xã Krông Nô",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    },
+    {
+        "ma": "24607",
+        "ten": "Xã Nam Ka",
+        "ma_tp": "66",
+        "ten_tp": "Tỉnh Đắk Lắk"
+    }
+]

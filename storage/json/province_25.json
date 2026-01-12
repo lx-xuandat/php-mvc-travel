@@ -1,0 +1,890 @@
+[
+    {
+        "ma": "04792",
+        "ten": "Phường Tân Hòa",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04795",
+        "ten": "Phường Hòa Bình",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04828",
+        "ten": "Phường Thống Nhất",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04831",
+        "ten": "Xã Đà Bắc",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04846",
+        "ten": "Xã Đức Nhàn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04849",
+        "ten": "Xã Tân Pheo",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04873",
+        "ten": "Xã Quy Đức",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04876",
+        "ten": "Xã Cao Sơn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04891",
+        "ten": "Xã Tiền Phong",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04894",
+        "ten": "Phường Kỳ Sơn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04897",
+        "ten": "Xã Thịnh Minh",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04924",
+        "ten": "Xã Lương Sơn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04960",
+        "ten": "Xã Liên Sơn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04978",
+        "ten": "Xã Kim Bôi",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "04990",
+        "ten": "Xã Nật Sơn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05014",
+        "ten": "Xã Mường Động",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05047",
+        "ten": "Xã Cao Dương",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05068",
+        "ten": "Xã Hợp Kim",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05086",
+        "ten": "Xã Dũng Tiến",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05089",
+        "ten": "Xã Cao Phong",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05092",
+        "ten": "Xã Thung Nai",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05116",
+        "ten": "Xã Mường Thàng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05128",
+        "ten": "Xã Tân Lạc",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05134",
+        "ten": "Xã Mường Hoa",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05152",
+        "ten": "Xã Vân Sơn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05158",
+        "ten": "Xã Mường Bi",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05191",
+        "ten": "Xã Toàn Thắng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05200",
+        "ten": "Xã Mai Châu",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05206",
+        "ten": "Xã Tân Mai",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05212",
+        "ten": "Xã Pà Cò",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05245",
+        "ten": "Xã Bao La",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05251",
+        "ten": "Xã Mai Hạ",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05266",
+        "ten": "Xã Lạc Sơn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05287",
+        "ten": "Xã Mường Vang",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05290",
+        "ten": "Xã Nhân Nghĩa",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05293",
+        "ten": "Xã Thượng Cốc",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05305",
+        "ten": "Xã Yên Phú",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05323",
+        "ten": "Xã Quyết Thắng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05329",
+        "ten": "Xã Ngọc Sơn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05347",
+        "ten": "Xã Đại Đồng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05353",
+        "ten": "Xã Yên Thủy",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05362",
+        "ten": "Xã Lạc Lương",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05386",
+        "ten": "Xã Yên Trị",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05392",
+        "ten": "Xã Lạc Thủy",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05395",
+        "ten": "Xã An Nghĩa",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "05425",
+        "ten": "Xã An Bình",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "07894",
+        "ten": "Phường Nông Trang",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "07900",
+        "ten": "Phường Việt Trì",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "07909",
+        "ten": "Phường Thanh Miếu",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "07918",
+        "ten": "Phường Vân Phú",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "07942",
+        "ten": "Phường Phú Thọ",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "07948",
+        "ten": "Phường Âu Cơ",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "07954",
+        "ten": "Phường Phong Châu",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "07969",
+        "ten": "Xã Đoan Hùng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "07996",
+        "ten": "Xã Bằng Luân",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "07999",
+        "ten": "Xã Chí Đám",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08023",
+        "ten": "Xã Tây Cốc",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08038",
+        "ten": "Xã Chân Mộng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08053",
+        "ten": "Xã Hạ Hòa",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08071",
+        "ten": "Xã Đan Thượng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08110",
+        "ten": "Xã Hiền Lương",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08113",
+        "ten": "Xã Yên Kỳ",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08134",
+        "ten": "Xã Văn Lang",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08143",
+        "ten": "Xã Vĩnh Chân",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08152",
+        "ten": "Xã Thanh Ba",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08173",
+        "ten": "Xã Quảng Yên",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08203",
+        "ten": "Xã Hoàng Cương",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08209",
+        "ten": "Xã Đông Thành",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08218",
+        "ten": "Xã Chí Tiên",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08227",
+        "ten": "Xã Liên Minh",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08230",
+        "ten": "Xã Phù Ninh",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08236",
+        "ten": "Xã Phú Mỹ",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08245",
+        "ten": "Xã Trạm Thản",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08254",
+        "ten": "Xã Dân Chủ",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08275",
+        "ten": "Xã Bình Phú",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08290",
+        "ten": "Xã Yên Lập",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08296",
+        "ten": "Xã Sơn Lương",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08305",
+        "ten": "Xã Xuân Viên",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08311",
+        "ten": "Xã Trung Sơn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08323",
+        "ten": "Xã Thượng Long",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08338",
+        "ten": "Xã Minh Hòa",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08341",
+        "ten": "Xã Cẩm Khê",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08344",
+        "ten": "Xã Tiên Lương",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08377",
+        "ten": "Xã Vân Bán",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08398",
+        "ten": "Xã Phú Khê",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08416",
+        "ten": "Xã Hùng Việt",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08431",
+        "ten": "Xã Đồng Lương",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08434",
+        "ten": "Xã Tam Nông",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08443",
+        "ten": "Xã Hiền Quan",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08467",
+        "ten": "Xã Vạn Xuân",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08479",
+        "ten": "Xã Thọ Văn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08494",
+        "ten": "Xã Lâm Thao",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08500",
+        "ten": "Xã Xuân Lũng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08515",
+        "ten": "Xã Hy Cương",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08521",
+        "ten": "Xã Phùng Nguyên",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08527",
+        "ten": "Xã Bản Nguyên",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08542",
+        "ten": "Xã Thanh Sơn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08545",
+        "ten": "Xã Thu Cúc",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08560",
+        "ten": "Xã Lai Đồng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08566",
+        "ten": "Xã Tân Sơn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08584",
+        "ten": "Xã Võ Miếu",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08590",
+        "ten": "Xã Xuân Đài",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08593",
+        "ten": "Xã Minh Đài",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08611",
+        "ten": "Xã Văn Miếu",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08614",
+        "ten": "Xã Cự Đồng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08620",
+        "ten": "Xã Long Cốc",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08632",
+        "ten": "Xã Hương Cần",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08635",
+        "ten": "Xã Khả Cửu",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08656",
+        "ten": "Xã Yên Sơn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08662",
+        "ten": "Xã Đào Xá",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08674",
+        "ten": "Xã Thanh Thủy",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08686",
+        "ten": "Xã Tu Vũ",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08707",
+        "ten": "Phường Vĩnh Yên",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08716",
+        "ten": "Phường Vĩnh Phúc",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08740",
+        "ten": "Phường Phúc Yên",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08746",
+        "ten": "Phường Xuân Hòa",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08761",
+        "ten": "Xã Lập Thạch",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08770",
+        "ten": "Xã Hợp Lý",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08773",
+        "ten": "Xã Yên Lãng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08782",
+        "ten": "Xã Hải Lựu",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08788",
+        "ten": "Xã Thái Hòa",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08812",
+        "ten": "Xã Liên Hòa",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08824",
+        "ten": "Xã Tam Sơn",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08842",
+        "ten": "Xã Tiên Lữ",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08848",
+        "ten": "Xã Sông Lô",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08866",
+        "ten": "Xã Sơn Đông",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08869",
+        "ten": "Xã Tam Dương",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08872",
+        "ten": "Xã Tam Dương Bắc",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08896",
+        "ten": "Xã Hoàng An",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08905",
+        "ten": "Xã Hội Thịnh",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08911",
+        "ten": "Xã Tam Đảo",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08914",
+        "ten": "Xã Đạo Trù",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08923",
+        "ten": "Xã Đại Đình",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08935",
+        "ten": "Xã Bình Nguyên",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08944",
+        "ten": "Xã Bình Tuyền",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08950",
+        "ten": "Xã Bình Xuyên",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "08971",
+        "ten": "Xã Xuân Lãng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "09025",
+        "ten": "Xã Yên Lạc",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "09040",
+        "ten": "Xã Tề Lỗ",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "09043",
+        "ten": "Xã Tam Hồng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "09052",
+        "ten": "Xã Nguyệt Đức",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "09064",
+        "ten": "Xã Liên Châu",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "09076",
+        "ten": "Xã Vĩnh Tường",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "09079",
+        "ten": "Xã Vĩnh An",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "09100",
+        "ten": "Xã Vĩnh Hưng",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "09106",
+        "ten": "Xã Vĩnh Thành",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "09112",
+        "ten": "Xã Thổ Tang",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    },
+    {
+        "ma": "09154",
+        "ten": "Xã Vĩnh Phú",
+        "ma_tp": "25",
+        "ten_tp": "Tỉnh Phú Thọ"
+    }
+]

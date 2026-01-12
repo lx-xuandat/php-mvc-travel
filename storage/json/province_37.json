@@ -1,0 +1,776 @@
+[
+    {
+        "ma": "13285",
+        "ten": "Phường Phủ Lý",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13291",
+        "ten": "Phường Phù Vân",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13318",
+        "ten": "Phường Châu Sơn",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13324",
+        "ten": "Phường Duy Tiên",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13330",
+        "ten": "Phường Duy Tân",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13336",
+        "ten": "Phường Duy Hà",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13348",
+        "ten": "Phường Đồng Văn",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13363",
+        "ten": "Phường Tiên Sơn",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13366",
+        "ten": "Phường Hà Nam",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13384",
+        "ten": "Phường Kim Bảng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13393",
+        "ten": "Phường Lê Hồ",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13396",
+        "ten": "Phường Nguyễn Uý",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13402",
+        "ten": "Phường Kim Thanh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13420",
+        "ten": "Phường Tam Chúc",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13435",
+        "ten": "Phường Lý Thường Kiệt",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13444",
+        "ten": "Phường Liêm Tuyền",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13456",
+        "ten": "Xã Liêm Hà",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13474",
+        "ten": "Xã Tân Thanh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13483",
+        "ten": "Xã Thanh Bình",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13489",
+        "ten": "Xã Thanh Lâm",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13495",
+        "ten": "Xã Thanh Liêm",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13501",
+        "ten": "Xã Bình Mỹ",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13504",
+        "ten": "Xã Bình Lục",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13531",
+        "ten": "Xã Bình Giang",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13540",
+        "ten": "Xã Bình An",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13558",
+        "ten": "Xã Bình Sơn",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13573",
+        "ten": "Xã Lý Nhân",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13579",
+        "ten": "Xã Bắc Lý",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13591",
+        "ten": "Xã Nam Xang",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13594",
+        "ten": "Xã Trần Thương",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13597",
+        "ten": "Xã Vĩnh Trụ",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13609",
+        "ten": "Xã Nhân Hà",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13627",
+        "ten": "Xã Nam Lý",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13669",
+        "ten": "Phường Nam Định",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13684",
+        "ten": "Phường Thiên Trường",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13693",
+        "ten": "Phường Đông A",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13699",
+        "ten": "Phường Thành Nam",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13708",
+        "ten": "Phường Mỹ Lộc",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13741",
+        "ten": "Xã Vụ Bản",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13750",
+        "ten": "Xã Minh Tân",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13753",
+        "ten": "Xã Hiển Khánh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13777",
+        "ten": "Phường Trường Thi",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13786",
+        "ten": "Xã Liên Minh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13795",
+        "ten": "Xã Ý Yên",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13807",
+        "ten": "Xã Tân Minh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13822",
+        "ten": "Xã Phong Doanh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13834",
+        "ten": "Xã Vũ Dương",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13864",
+        "ten": "Xã Vạn Thắng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13870",
+        "ten": "Xã Yên Cường",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13879",
+        "ten": "Xã Yên Đồng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13891",
+        "ten": "Xã Nghĩa Hưng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13894",
+        "ten": "Xã Rạng Đông",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13900",
+        "ten": "Xã Đồng Thịnh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13918",
+        "ten": "Xã Nghĩa Sơn",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13927",
+        "ten": "Xã Hồng Phong",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13939",
+        "ten": "Xã Quỹ Nhất",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13957",
+        "ten": "Xã Nghĩa Lâm",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13966",
+        "ten": "Xã Nam Trực",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13972",
+        "ten": "Phường Vị Khê",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13984",
+        "ten": "Phường Hồng Quang",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "13987",
+        "ten": "Xã Nam Hồng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14005",
+        "ten": "Xã Nam Ninh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14011",
+        "ten": "Xã Nam Minh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14014",
+        "ten": "Xã Nam Đồng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14026",
+        "ten": "Xã Cổ Lễ",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14038",
+        "ten": "Xã Ninh Giang",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14053",
+        "ten": "Xã Trực Ninh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14056",
+        "ten": "Xã Cát Thành",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14062",
+        "ten": "Xã Quang Hưng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14071",
+        "ten": "Xã Minh Thái",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14077",
+        "ten": "Xã Ninh Cường",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14089",
+        "ten": "Xã Xuân Trường",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14095",
+        "ten": "Xã Xuân Hồng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14104",
+        "ten": "Xã Xuân Giang",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14122",
+        "ten": "Xã Xuân Hưng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14161",
+        "ten": "Xã Giao Minh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14167",
+        "ten": "Xã Giao Thuỷ",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14179",
+        "ten": "Xã Giao Hưng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14182",
+        "ten": "Xã Giao Hoà",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14194",
+        "ten": "Xã Giao Bình",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14203",
+        "ten": "Xã Giao Phúc",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14212",
+        "ten": "Xã Giao Ninh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14215",
+        "ten": "Xã Hải Hậu",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14218",
+        "ten": "Xã Hải Tiến",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14221",
+        "ten": "Xã Hải Thịnh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14236",
+        "ten": "Xã Hải Anh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14248",
+        "ten": "Xã Hải Hưng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14281",
+        "ten": "Xã Hải An",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14287",
+        "ten": "Xã Hải Quang",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14308",
+        "ten": "Xã Hải Xuân",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14329",
+        "ten": "Phường Hoa Lư",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14359",
+        "ten": "Phường Nam Hoa Lư",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14362",
+        "ten": "Phường Tam Điệp",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14365",
+        "ten": "Phường Trung Sơn",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14371",
+        "ten": "Phường Yên Sơn",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14389",
+        "ten": "Xã Gia Lâm",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14401",
+        "ten": "Xã Gia Tường",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14404",
+        "ten": "Xã Cúc Phương",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14407",
+        "ten": "Xã Phú Sơn",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14428",
+        "ten": "Xã Nho Quan",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14434",
+        "ten": "Xã Thanh Sơn",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14452",
+        "ten": "Xã Quỳnh Lưu",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14458",
+        "ten": "Xã Phú Long",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14464",
+        "ten": "Xã Gia Viễn",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14482",
+        "ten": "Xã Gia Hưng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14488",
+        "ten": "Xã Gia Vân",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14494",
+        "ten": "Xã Gia Trấn",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14500",
+        "ten": "Xã Đại Hoàng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14524",
+        "ten": "Xã Gia Phong",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14533",
+        "ten": "Phường Tây Hoa Lư",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14560",
+        "ten": "Xã Yên Khánh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14563",
+        "ten": "Xã Khánh Thiện",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14566",
+        "ten": "Phường Đông Hoa Lư",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14608",
+        "ten": "Xã Khánh Trung",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14611",
+        "ten": "Xã Khánh Nhạc",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14614",
+        "ten": "Xã Khánh Hội",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14620",
+        "ten": "Xã Phát Diệm",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14623",
+        "ten": "Xã Bình Minh",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14638",
+        "ten": "Xã Kim Sơn",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14647",
+        "ten": "Xã Quang Thiện",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14653",
+        "ten": "Xã Chất Bình",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14674",
+        "ten": "Xã Lai Thành",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14677",
+        "ten": "Xã Định Hóa",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14698",
+        "ten": "Xã Kim Đông",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14701",
+        "ten": "Xã Yên Mô",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14725",
+        "ten": "Phường Yên Thắng",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14728",
+        "ten": "Xã Yên Từ",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14743",
+        "ten": "Xã Yên Mạc",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    },
+    {
+        "ma": "14746",
+        "ten": "Xã Đồng Thái",
+        "ma_tp": "37",
+        "ten_tp": "Tỉnh Ninh Bình"
+    }
+]
